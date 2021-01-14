@@ -1,0 +1,91 @@
+.border-top-big {
+  border-top: 3px solid black;
+}
+
+.border-bottom-big {
+  border-bottom: 3px solid black;
+}
+
+.border-left-big {
+  border-left: 3px solid black;
+}
+
+.border-right-big {
+  border-right: 3px solid black;
+}
+.border-top-b {
+  border-top: 1px solid black;
+}
+
+.border-bottom-b {
+  border-bottom: 1px solid black;
+}
+
+.border-left-b {
+  border-left: 1px solid black;
+}
+
+.border-right-b {
+  border-right: 1px solid black;
+}
+
+.border-bottom-light {
+  border-bottom: 1px solid black;
+}
+
+.border-left-light {
+  border-left: 1px solid black;
+}
+
+.border-top-light {
+  border-top: 1px solid black;
+}
+
+.border-bottom-light {
+  border-bottom: 1px solid black;
+}
+
+.brtl {
+  border-radius: 10px 0 0 0;
+}
+.brtr {
+  border-radius: 0 10px 0 0;
+}
+.brbl {
+  border-radius: 0 0 10px 0;
+}
+.brbr {
+  border-radius: 0 0 0 10px;
+}
+
+.sudoku-grid {
+  max-width: 500px;
+  min-width: 500px;
+}
+
+.col-1 {
+  height: 40px;
+  width: 40px;
+  font-size: 23px;
+  font-family: "Hachi Maru Pop", cursive;
+}
+.tkt {
+  justify-content: center;
+}
+.my-bg {
+  background-color: #9b9b9b;
+}
+
+.shad {
+  border-radius: 20px;
+  background: #424d76;
+  box-shadow: 7px 7px 29px #1a1f2f, -7px -7px 29px #6a7bbd;
+}
+body {
+  background-color: #424d76;
+  color: #18234b;
+}
+
+.cw {
+  color: white;
+}
